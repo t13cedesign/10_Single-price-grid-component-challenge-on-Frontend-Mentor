@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/t13cedesign/Frontend-Mentor---Four-card-feature-section-solution]
-- Live Site URL: [https://t13cedesign.github.io/Frontend-Mentor---Four-card-feature-section-solution/]
+- Solution URL: [https://github.com/t13cedesign/10_Single-price-grid-component-challenge-on-Frontend-Mentor]
+- Live Site URL: [https://t13cedesign.github.io/10_Single-price-grid-component-challenge-on-Frontend-Mentor/]
 
 ## My process
 
